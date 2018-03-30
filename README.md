@@ -1,8 +1,17 @@
-# Mathias’s dotfiles
+# Lironess’s dotfiles
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
 ## Installation
+
+```
+1. brew.sh
+2. cask.sh
+3. bootstrap.sh
+4. .path
+5. .macos
+6. npm.sh
+```
 
 **Warning:** If you want to give these dotfiles a try, you should first fork this repository, review the code, and remove things you don’t want or need. Don’t blindly use my settings unless you know what that entails. Use at your own risk!
 
