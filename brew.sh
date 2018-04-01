@@ -58,6 +58,7 @@ brew install vbindiff
 brew install zopfli
 
 # my extras
+brew install michaeldfallen/formula/git-radar
 brew install curl
 brew install node
 brew install yarn

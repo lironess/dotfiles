@@ -7,7 +7,7 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 
 brew cask install google-chrome
-brew cask install adobe-reader
+brew cask install adobe-acrobat-reader
 brew cask install docker
 brew cask install iterm2
 brew cask install skype
@@ -21,12 +21,11 @@ brew cask install android-file-transfer
 brew cask install keepingyouawake
 brew cask install slack
 brew cask install beardedspice
-brew cask install blender
+brew cask install java
 brew cask install dbeaver-community
 brew cask install spotify
 brew cask install folx
 brew cask install mathtype
-brew cask install medis
 brew cask install paintbrush
 brew cask install usb-overdrive
 brew cask install visual-studio-code

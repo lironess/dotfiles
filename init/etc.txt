@@ -1,3 +1,5 @@
+INSTALL scm_breeze
+
 Mathtype:
 =========
 Cut and copy: MathML 2.0 (namespace)
