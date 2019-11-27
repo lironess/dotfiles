@@ -31,5 +31,8 @@ brew cask install usb-overdrive
 brew cask install visual-studio-code
 brew cask install postman
 brew cask install mplayer-osx-extended
+brew cask install hammerspoon
+brew cask install maccy
+brew cask install motrix
 
 brew cask cleanup
